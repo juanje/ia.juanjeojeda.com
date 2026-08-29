@@ -23,7 +23,7 @@ Llevo años investigando cómo aprendemos. No en un laboratorio, sino más bien 
 
 No mejores en el sentido de «modelos más listos». Eso es problema de Anthropic y OpenAI. Lo digo en un sentido más fundamental: **¿podríamos hacer agentes que aprendan de verdad a partir de la experiencia?** Que acumulen conocimiento útil como hacemos nosotros, quedándose con lo que importa, conectando ideas relacionadas, soltando lo que ya no es relevante y desarrollando nuevas habilidades con el tiempo.
 
-Llevo un tiempo explorando esto, construyendo un sistema open source llamado [Agentic Buddy](https://github.com/juanjeojeda/agentic-buddy), un asistente personal de propósito general con memoria persistente basada en ficheros. Vive en su propio repositorio (directorio) y me ayuda con todo tipo de cosas: gestión de tareas, investigación, escritura, seguimiento de proyectos personales. Es mi campo de pruebas para entender qué funciona y qué no cuando intentas que un agente aprenda, y para desarrollar principios que luego puedan aplicarse a otros tipos de agentes.
+Llevo un tiempo explorando esto, construyendo un sistema open source llamado [Agentic Buddy](https://github.com/juanje/agentic-buddy), un asistente personal de propósito general con memoria persistente basada en ficheros. Vive en su propio repositorio (directorio) y me ayuda con todo tipo de cosas: gestión de tareas, investigación, escritura, seguimiento de proyectos personales. Es mi campo de pruebas para entender qué funciona y qué no cuando intentas que un agente aprenda, y para desarrollar principios que luego puedan aplicarse a otros tipos de agentes.
 
 Quiero compartir lo que he ido encontrando, porque creo que la generación actual de agentes de IA, tan capaces como amnésicos e incapaces de aprender nada nuevo entre sesiones, puede llevarse mucho más lejos de lo que la mayoría imagina.
 
@@ -218,7 +218,7 @@ Los enfoques más comunes para resolver esto son o bien «meterlo todo en una ve
 
 Pero el punto más importante es este: conforme los agentes de IA se vuelvan parte rutinaria de cómo trabajamos, la pregunta de _qué recuerdan, cómo aprenden y cómo olvidan_ va a convertirse en un problema de ingeniería de primer orden. No solo para las empresas que construyen productos de IA, sino para cualquier equipo que use un asistente de IA. Los agentes que conozcan tu contexto, los patrones de tu equipo, la historia de tu código base y los modos de fallo de tu infraestructura serán mucho más útiles que los que empiezan de cero en cada sesión.
 
-Si quieres experimentar con estas ideas, [Agentic Buddy](https://github.com/juanjeojeda/agentic-buddy) es open source y se pone en marcha en unos cinco minutos. Es un asistente personal, no un plugin para proyectos de código, pero los patrones que aprendes usándolo pueden informar cómo construirías memoria en otros tipos de agentes.
+Si quieres experimentar con estas ideas, [Agentic Buddy](https://github.com/juanje/agentic-buddy) es open source y se pone en marcha en unos cinco minutos. Es un asistente personal, no un plugin para proyectos de código, pero los patrones que aprendes usándolo pueden informar cómo construirías memoria en otros tipos de agentes.
 
 Lo que me llevo de todo esto es que la inteligencia de la IA actual no vive solo en los modelos. Un agente, como cualquier agente complejo en un entorno complejo, puede desarrollar memoria y habilidades a partir de reglas sorprendentemente simples y una forma básica de interactuar con su entorno. En este caso, el sistema de ficheros.
 
