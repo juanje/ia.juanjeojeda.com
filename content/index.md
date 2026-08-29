@@ -10,11 +10,12 @@ Soy ingeniero de software en Red Hat. En paralelo, investigo [sistemas complejos
 
 ## Empieza aquí
 
+- [[la-inteligencia-esta-mas-alla-del-llm|La inteligencia está más allá del LLM]] — Si lo que hace inteligente a un sistema es su capacidad de adaptar su conducta, un LLM por sí solo no es especialmente inteligente. Lo que le da flexibilidad es todo lo que ocurre a su alrededor.
 - [[agente-ia-pudiera-aprender|¿Y si tu agente de IA pudiera aprender de verdad?]] — Sobre cómo dar memoria, identidad y la capacidad de olvidar a los agentes locales.
 
 ## Temas
 
-Explora por tema: [[tags/agentes-ia|agentes de IA]], [[tags/memoria|memoria]], [[tags/sistemas-complejos|sistemas complejos]], [[tags/aprendizaje|aprendizaje]].
+Explora por tema: [[tags/agentes-ia|agentes de IA]], [[tags/memoria|memoria]], [[tags/sistemas-complejos|sistemas complejos]], [[tags/aprendizaje|aprendizaje]], [[tags/harness|harness]], [[tags/emergencia|emergencia]].
 
 ## Sobre este sitio
 
