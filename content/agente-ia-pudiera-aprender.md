@@ -1,6 +1,6 @@
 ---
 title: "¿Y si tu agente de IA pudiera aprender de verdad?"
-description: "Sobre cómo dar memoria, identidad y la capacidad de olvidar a los agentes locales."
+description: "La mayoría de los agentes de IA empiezan cada sesión desde cero. ¿Y si el tuyo pudiera recordar decisiones pasadas, construir sobre trabajo anterior y olvidar lo que ya no es relevante?"
 date: 2026-04-10
 tags:
   - agentes-ia
